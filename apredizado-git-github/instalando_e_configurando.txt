@@ -1,0 +1,1 @@
+Aqui tivemos as instruções de como instalar e configuar o Git no terminal.
