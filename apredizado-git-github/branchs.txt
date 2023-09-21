@@ -1,0 +1,1 @@
+Aqui vimos para que serve as branchs, que são na prática umá cópia do workflow podendo ser editado sem alterar a origem.
