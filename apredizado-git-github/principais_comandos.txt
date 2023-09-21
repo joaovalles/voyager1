@@ -1,0 +1,2 @@
+Aqui vimos vários comandos úteis para usar no terminal.
+Ex: clear
